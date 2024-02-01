@@ -1,5 +1,5 @@
 Hi 👋 My name is Mikołaj Galant</br>
-Currently studying Automatio, Cybernetics and Robotics at Gdańsk University of Technology* 
+Currently studying Automatio, Cybernetics and Robotics at Gdańsk University of Technology</br>
 🌍  I'm based in Gdańsk* 
 ✉️  You can contact me at [mikolaj.galant@gmail.com](mailto:mikolaj.galant@gmail.com)* 
 🧠  I'm learning CUDA, Pythorch, Mashine Learning* 
