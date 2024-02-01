@@ -1,4 +1,4 @@
-Hi 👋 My name is Mikołaj Galant
+Hi 👋 My name is Mikołaj Galant</br>
 Currently studying Automatio, Cybernetics and Robotics at Gdańsk University of Technology* 
 🌍  I'm based in Gdańsk* 
 ✉️  You can contact me at [mikolaj.galant@gmail.com](mailto:mikolaj.galant@gmail.com)* 
