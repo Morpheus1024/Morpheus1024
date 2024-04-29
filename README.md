@@ -2,9 +2,9 @@ Hi 👋 My name is Mikołaj Galant </br>
 Currently studying Automation, Cybernetics and Robotics at Gdańsk University of Technology </br>
 🌍  I'm based in Gdańsk </br>
 ✉️  You can contact me at [mikolaj.galant@gmail.com](mailto:mikolaj.galant@gmail.com) </br>
-🧠  I'm learning CUDA, Pytorch, Mashine Learning </br>
-📝 Currently working on my engeneering thesis </br>
-⚡  I do love coffee</br>
+🧠  I'm learning CUDA, Pytorch, Machine Learning </br>
+📝  Currently working on my engineering thesis </br>
+⚡  I do love coffee </br>
 
 <h2>Skills</h2>
 
