@@ -1,6 +1,6 @@
 Hi 👋 My name is Mikołaj Galant </br>
 🤖 Automation, Cybernetics and Robotics engeneer </br>
-👨‍🎓 Graduated Gdańsk University of Technology
+👨‍🎓 Graduated Gdańsk University of Technology </br>
 🌍  I'm based in Gdańsk </br>
 ✉️  You can contact me at [mikolaj.galant@gmail.com](mailto:mikolaj.galant@gmail.com) </br>
 📝  Python developer in Avena Robotics </br>
